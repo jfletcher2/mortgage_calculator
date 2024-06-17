@@ -6,7 +6,7 @@ from openai import OpenAI
 
 client = OpenAI(
     # This is the default and can be omitted
-    api_key="sk-proj-oKiDwOZxcqoulcwiGQEcT3BlbkFJ0R6dA0U2RhkC2R1POgIb",
+    api_key="",
 )
 
 # Function to call OpenAI API
